@@ -71,3 +71,7 @@ li {
   padding: 10px 20px;
   color: rgb(48, 48, 48);
 }
+
+.visible {
+  visibility: visible;
+}
