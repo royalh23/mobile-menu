@@ -18,4 +18,5 @@ import './style.css';
 
   content.addEventListener('click', closeMoreItems);
   more.addEventListener('click', (e) => showMoreItems(e));
+  moreItems.addEventListener('click', (e) => e.stopPropagation());
 })();
