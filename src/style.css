@@ -30,6 +30,7 @@ body {
   color: rgb(118, 118, 118);
   display: flex;
   justify-content: space-evenly;
+  gap: 5px;
   height: 60px;
   list-style-type: none;
   margin: 30px 0 0 0;
