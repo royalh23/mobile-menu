@@ -9,6 +9,18 @@ html {
 }
 
 body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin: 0;
   padding: 0;
+  height: 100vh;
+  background-color: #e2e8f0;
+}
+
+#content {
+  width: 500px;
+  height: 700px;
+  border-radius: 20px;
+  background-color: white;
 }
